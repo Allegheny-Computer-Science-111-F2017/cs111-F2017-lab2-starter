@@ -1,10 +1,10 @@
 <!---
 
-TASK LIST:
+PROFESSOR TASK LIST:
 
-  * Use cp -rf *.* to copy all of the files and directories in this repository
+  * Use cp -r to copy all of the files and directories in this repository
     to the starter repository for this assignment
-  * Change into the directory for the starer repository
+  * Change into the directory for the starter repository
   * Update the header (e.g., #) to only give the name of the assignment
   * Update the first paragraph to include the commented-out content
   * Change the link in the # Problems section to point to this lab's starter
@@ -13,10 +13,10 @@ TASK LIST:
   * Check to ensure that your GitHub repository is created correctly
   * Share the assignment link with all of the students using email or Slack
 
-PROBLEMS?
+PROFESSOR PROBLEMS?
 
   * Contact Gregory M. Kapfhammer by email or Slack
-  * Raise an issue in the GitHub repository for this assignment
+  * Raise an issue in the GitHub repository for this assignment starter
 
 -->
 
@@ -70,6 +70,16 @@ submission does not meet the requirements, a red &#x2717; will appear instead.
 The instructor will reduce a programmer's grade for this assignment if the red
 &#x2717; appears on the last commit in GitHub immediately before the
 assignment's due date.
+
+<!---
+
+NOTE: Only granted due to an intermittent (and resolved) Travis problem
+
+-->
+
+Note that for this assignment, Travis was not correctly configured when it was
+released. As such, only for this assignment, you do not have to have a green
+&#x2714; or a red &#x2717; in your listing of commits.
 
 <!---
 
