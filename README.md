@@ -73,7 +73,7 @@ assignment's due date.
 
 <!---
 
-NOTE: Only granted due to an intermittent (and resolved) Travis problem
+NOTE: Only granted due to an intermittent (and resolved) Travis CI problem
 
 -->
 
